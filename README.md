@@ -10,7 +10,7 @@ javascript와 jQuery를 이용한 동적인 페이지를 만들어 보는 것이
 2022.06.20 ~ 2022.07.07
 
 # 🛠️What used
-Html, css, javascript, jQuery
+Html, css, javascript, jQuery, swiper
 
 # ✔️Point
 첫 번째와 두 번째 프로젝트를 제작하며 쌓인 경험을 활용하여 구현하고자 하는 기능들을 구현시켰습니다.
